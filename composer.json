@@ -1,5 +1,11 @@
-{
-    "name": "loader-ajaxifyjs",
+{    
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "git://bitbucket.org/Fr3nzy/loader.ajaxify.js"
+        }
+    ],  
+    "name": "Fr3nzy/loader-ajaxifyjs",
     "description": "Loader Module for AjaxifyJS. You can use it as standalone library also.",
     "type": "component",
     "homepage": "https://bitbucket.org/Fr3nzy/loader.ajaxify.js",
@@ -14,7 +20,8 @@
         }
     ],
     "require": {
-        "robloach/component-installer": "*"
+        "robloach/component-installer": "*",
+		"Fr3nzy/loader.ajaxify.js": "*"
     },
     "extra": {
         "component": {
