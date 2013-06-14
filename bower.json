@@ -1,13 +1,16 @@
 {
-  "name": "loader-ajaxifyjs",
-  "version": "0.9.0",
-  "main": "lib/loader.ajaxify.js",
-  "ignore": [
-	"src/vendor",
-    "tests",
-    "**/*.txt",
-    ".gitignore",
-    ".idea",
-	"bootstrap.*"
-  ]
+    "name": "loader-ajaxifyjs",
+    "version": "0.9.0",
+    "main": "lib/loader.ajaxify.js",
+    "ignore": [
+        "src/vendor",
+        "tests",
+        "**/*.txt",
+        ".gitignore",
+        ".idea",
+        "bootstrap.*"
+    ],
+    "dependencies": {
+        "requirejs": "2.1.6"
+    }
 }
