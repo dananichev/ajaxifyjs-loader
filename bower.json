@@ -1,0 +1,10 @@
+{
+  "name": "loader.ajaxify.js",
+  "version": "0.9.0",
+  "main": "lib/loader.ajaxify.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
