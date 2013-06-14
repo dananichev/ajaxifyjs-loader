@@ -1,10 +1,4 @@
 {
-	"repositories": [
-        {
-            "type": "vcs",
-            "url": "git://bitbucket.org/Fr3nzy/loader.ajaxify.js"
-        }
-    ],  
     "name": "Fr3nzy/loader-ajaxifyjs",
     "description": "Loader Module for AjaxifyJS. You can use it as standalone library also.",
     "type": "component",
@@ -17,6 +11,12 @@
         {
             "name": "Dmitry Ananichev",
             "email": "a@qozz.ru"
+        }
+    ],
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "git://bitbucket.org/Fr3nzy/loader.ajaxify.js"
         }
     ],
     "require": {
