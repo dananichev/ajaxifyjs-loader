@@ -1,11 +1,13 @@
 {
-  "name": "my-project",
+  "name": "Fr3nzy/loader-ajaxifyjs",
   "version": "0.9.0",
   "main": "lib/loader.ajaxify.js",
   "ignore": [
 	"src/vendor",
     "tests",
     "**/*.txt",
+    ".gitignore",
+    ".idea",
 	"bootstrap.*"
   ]
 }
