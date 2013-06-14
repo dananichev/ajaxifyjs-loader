@@ -1,5 +1,5 @@
 {
-    "name":"components/loader-ajaxifyjs",
+    "name":"components/loader.ajaxify.js",
     "description":"Loader Module for AjaxifyJS. You can use it as standalone library also.",
     "type":"component",
     "homepage":"https://bitbucket.org/Fr3nzy/loader.ajaxify.js",
