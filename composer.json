@@ -1,0 +1,29 @@
+{
+    "name": "loader-ajaxifyjs",
+    "description": "Loader Module for AjaxifyJS. You can use it as standalone library also.",
+    "type": "component",
+    "homepage": "https://bitbucket.org/Fr3nzy/loader.ajaxify.js",
+    "license": "MIT",
+    "support": {
+        "issues": "https://bitbucket.org/Fr3nzy/loader.ajaxify.js/issues?status=new&status=open"
+    },
+    "authors": [
+        {
+            "name": "Dmitry Ananichev",
+            "email": "a@qozz.ru"
+        }
+    ],
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "lib/loader.ajaxify.js"
+            ],
+            "files": [
+                "lib/loader.ajaxify.js"
+            ]
+        }
+    }
+}
