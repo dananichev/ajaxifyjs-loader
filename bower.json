@@ -1,0 +1,11 @@
+{
+  "name": "my-project",
+  "version": "0.9.0",
+  "main": "lib/loader.ajaxify.js",
+  "ignore": [
+	"src/vendor",
+    "tests",
+    "**/*.txt",
+	"bootstrap.*"
+  ]
+}
